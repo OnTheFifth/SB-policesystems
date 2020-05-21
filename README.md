@@ -5,14 +5,13 @@ Spawning and Impounding system for police for those who don't use the police gar
 [ESX](https://forum.cfx.re/t/release-esx-base/39881)
 [Mythic Progress Bar](https://forum.cfx.re/t/dev-resource-mythic-progress-bar/527607)
 
-**Download**
-[Github](https://github.com/StarBlazt/SB-policesystems)
 
 **Installation**
 1. Download SB-policesystems and place into the resource folder
 2. Change Config file for your vehicles you want on.
 3. Add "ensure SB-policesystems" to your server.cfg
 4. Start Server :slight_smile: 
+5. Extra help https://discord.gg/jC9YgyK
 
 **Videos**
 https://streamable.com/00cgh Spawning Vehicle
