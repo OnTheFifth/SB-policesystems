@@ -18,12 +18,13 @@ https://streamable.com/00cgh Spawning Vehicle
 https://streamable.com/h6sjx Impounding Vehicle
 
 **Update 1.0**  Gods Update
-/Runplate command for police
-/sv & impound commands for EMS 
-/fine id amount for police
-/extra #  
-/livery # 
-Location based for commands all police stations and some hospitals. 
-/fix command 
-/paytow id -- police to pay tow job $500 per tow
-/fingerprint id - Shows players name and job to person
+
+- /Runplate command for police
+- /sv & impound commands for EMS 
+- /fine id amount for police
+- /extra #  
+- /livery # 
+- Location based for commands all police stations and some hospitals. 
+- /fix command 
+- /paytow id -- police to pay tow job $500 per tow
+- /fingerprint id - Shows players name and job to person
