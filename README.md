@@ -28,3 +28,6 @@ https://streamable.com/h6sjx Impounding Vehicle
 - /fix command 
 - /paytow id -- police to pay tow job $500 per tow
 - /fingerprint id - Shows players name and job to person
+
+
+- Note. This does not come with my progress bar or notification system you will have to edit it to your own
