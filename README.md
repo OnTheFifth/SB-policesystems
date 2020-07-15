@@ -11,7 +11,7 @@ Spawning and Impounding system for police for those who don't use the police gar
 2. Change Config file for your vehicles you want on.
 3. Add "ensure SB-policesystems" to your server.cfg
 4. Start Server :slight_smile: 
-5. Extra help https://discord.gg/jC9YgyK
+5. Extra help https://discord.gg/gmAcpDU
 
 **Videos**
 https://streamable.com/00cgh Spawning Vehicle
